@@ -1,12 +1,10 @@
 1. O que é o Node.js?
-
 Node.js é um ambiente de execução (runtime) JavaScript de código aberto e multiplataforma que permite executar códigos JavaScript no lado do servidor (backend),
 fora do navegador.
 Baseado no motor V8 da Google, ele é ideal para aplicações de alta performance, tempo real e escaláveis, utilizando um modelo assíncrono e orientado a eventos. 
 
 
 2. O Node.js usa qual linguagem de programação?
-
 O Node.js utiliza a linguagem de programação JavaScript.
 Ele é um ambiente de execução (runtime) que permite rodar código JavaScript no servidor (backend), fora do navegador, utilizando o motor V8 do Google Chrome. 
 
@@ -38,17 +36,20 @@ por exemplo: node index.js ou node app.js
    
 
 
-8. O Node.js é mais usado no front-end ou no back-end? O Node.js é utilizado majoritariamente no back-end (lado do servidor),
+8. O Node.js é mais usado no front-end ou no back-end?
+O Node.js é utilizado majoritariamente no back-end (lado do servidor),
 permitindo o uso de JavaScript fora do navegador para criar APIs, microsserviços e aplicações em tempo real. Embora fundamental para ferramentas de build e renderização no front-end
 (como React/Next.js), seu propósito principal é estruturar servidores. 
 
 
-9. O que é o arquivo package.json? O arquivo package.json é um arquivo fundamental no desenvolvimento JavaScript e Node.js,
+10. O que é o arquivo package.json?
+O arquivo package.json é um arquivo fundamental no desenvolvimento JavaScript e Node.js,
 agindo como o hub central de configuração do projeto. Ele armazena metadados (nome, versão, autor), gerencia as dependências (bibliotecas externas) 
 e define scripts de automação, sendo essencial para o gerenciamento de pacotes através do npm.
 
 
-10. O Node.js é gratuito ou pago?O Node.js é totalmente gratuito e de código aberto (open-source).
+12. O Node.js é gratuito ou pago?
+    O Node.js é totalmente gratuito e de código aberto (open-source).
     Você pode baixar, usar e modificar o Node.js para qualquer finalidade, incluindo projetos comerciais, sem pagar licenças. 
 
 
