@@ -19,7 +19,7 @@ Node.js roda fora do navegador
 4. Para que serve o Node.js?
    
 O Node.js serve principalmente para executar código JavaScript no lado do servidor (backend), permitindo criar aplicações web rápidas, escaláveis e de alto desempenho,
- como APIs REST, chats em tempo real e ferramentas de streaming. Ele é ideal para aplicações intensivas em dados, utilizando um modelo assíncrono e orientado a eventos. 
+como APIs REST, chats em tempo real e ferramentas de streaming. Ele é ideal para aplicações intensivas em dados, utilizando um modelo assíncrono e orientado a eventos. 
 
 
 5. Qual comando é usado para executar um arquivo Node.js no terminal?
@@ -29,17 +29,17 @@ O comando usado para executar um arquivo Node.js no terminal é node <nome_do_ar
 por exemplo: node index.js ou node app.js
 
 6. O que é o npm?
- O npm (Node Package Manager) é o gerenciador de pacotes padrão para o ambiente de execução Node.js,
-   consistindo em um repositório online de bibliotecas código aberto e uma ferramenta de linha de comando (CLI).
-  Ele facilita a instalação, compartilhamento e gerenciamento de dependências em projetos JavaScript, organizando pacotes no arquivo package.json. 
+O npm (Node Package Manager) é o gerenciador de pacotes padrão para o ambiente de execução Node.js,
+consistindo em um repositório online de bibliotecas código aberto e uma ferramenta de linha de comando (CLI).
+Ele facilita a instalação, compartilhamento e gerenciamento de dependências em projetos JavaScript, organizando pacotes no arquivo package.json. 
 
 
 7. O que significa a palavra módulo no Node.js?
     
-   No Node.js, um módulo é um bloco de código JavaScript encapsulado, reutilizável e organizado em arquivos ou pastas separadas,
-   com escopo próprio. Funciona de maneira similar a uma biblioteca em outras linguagens, permitindo que você divida uma aplicação grande em partes menores,
-   gerenciáveis e fáceis de manter,
-   seguindo o princípio de reuso de código (DRY - Don't Repeat Yourself).
+ No Node.js, um módulo é um bloco de código JavaScript encapsulado, reutilizável e organizado em arquivos ou pastas separadas,
+ com escopo próprio. Funciona de maneira similar a uma biblioteca em outras linguagens, permitindo que você divida uma aplicação grande em partes menores,
+gerenciáveis e fáceis de manter,
+seguindo o princípio de reuso de código (DRY - Don't Repeat Yourself).
    
 
 
@@ -59,8 +59,8 @@ e define scripts de automação, sendo essencial para o gerenciamento de pacotes
 
 10. O Node.js é gratuito ou pago?
 
-   O Node.js é totalmente gratuito e de código aberto (open-source).
-   Você pode baixar, usar e modificar o Node.js para qualquer finalidade, incluindo projetos comerciais, sem pagar licenças. 
+ O Node.js é totalmente gratuito e de código aberto (open-source).
+Você pode baixar, usar e modificar o Node.js para qualquer finalidade, incluindo projetos comerciais, sem pagar licenças. 
 
 
 
