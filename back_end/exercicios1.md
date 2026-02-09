@@ -29,9 +29,9 @@
   por exemplo: node index.js ou node app.js
 
   6. O que é o npm?
-  O npm (Node Package Manager) é o gerenciador de pacotes padrão para o ambiente de execução Node.js,
-  consistindo em um repositório online de bibliotecas código aberto e uma ferramenta de linha de comando (CLI).
-  Ele facilita a instalação, compartilhamento e gerenciamento de dependências em projetos JavaScript, organizando pacotes no arquivo package.json. 
+ O npm (Node Package Manager) é o gerenciador de pacotes padrão para o ambiente de execução Node.js,
+consistindo em um repositório online de bibliotecas código aberto e uma ferramenta de linha de comando (CLI).
+Ele facilita a instalação, compartilhamento e gerenciamento de dependências em projetos JavaScript, organizando pacotes no arquivo package.json. 
 
 
    7. O que significa a palavra módulo no Node.js?
