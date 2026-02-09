@@ -22,17 +22,17 @@
  Fila de Tarefas (Callback Queue/Task Queue): Após a operação assíncrona terminar, seu callback (função de retorno) é movido para uma fila [2].
  O Laço (Event Loop): O Event Loop verifica constantemente: "A Call Stack está vazia?".
 
-  6. O que são módulos no Node.js? Explique a diferença entre:
+    6. O que são módulos no Node.js? Explique a diferença entre:
 
-  Módulos internos
-  Módulos externos
-  Módulos criados pelo desenvolvedor
+    Módulos internos
+    Módulos externos
+    Módulos criados pelo desenvolvedor
 
-   Módulos no Node.js são arquivos JavaScript reutilizáveis que encapsulam código, funcionalidades e bibliotecas, organizando a aplicação em partes menores e especializadas. Eles permitem importar (usando require ou import) e exportar funcionalidades, facilitando a manutenção e organização do projeto. 
-   Os módulos no Node.js dividem-se em três tipos principais: 
-   Módulos Internos (Core Modules): Já vêm embutidos no Node.js no momento da instalação. Fornecem funcionalidades essenciais sem necessidade de instalação adicional. Exemplos: fs (sistema de arquivos), http (criação de servidores), path.
-   Módulos Externos (Third-party Modules): São bibliotecas ou frameworks criados pela comunidade, instalados através do npm (Node Package Manager) e armazenados na pasta node_modules. Exemplos: express, mongoose, lodash.
-   Módulos Criados pelo Desenvolvedor (Locais): São arquivos .js criados pelo próprio desenvolvedor para organizar sua aplicação. Geralmente importados usando caminhos relativos, como ./meuModulo. 
+     Módulos no Node.js são arquivos JavaScript reutilizáveis que encapsulam código, funcionalidades e bibliotecas, organizando a aplicação em partes menores e especializadas. Eles permitem importar (usando require ou import) e exportar funcionalidades, facilitando a manutenção e organização do projeto. 
+     Os módulos no Node.js dividem-se em três tipos principais: 
+     Módulos Internos (Core Modules): Já vêm embutidos no Node.js no momento da instalação. Fornecem funcionalidades essenciais sem necessidade de instalação adicional. Exemplos: fs (sistema de arquivos), http (criação de servidores), path.
+     Módulos Externos (Third-party Modules): São bibliotecas ou frameworks criados pela comunidade, instalados através do npm (Node Package Manager) e armazenados na pasta node_modules. Exemplos: express, mongoose, lodash.
+     Módulos Criados pelo Desenvolvedor (Locais): São arquivos .js criados pelo próprio desenvolvedor para organizar sua aplicação. Geralmente importados usando caminhos relativos, como ./meuModulo. 
 
    7. Para que serve o arquivo package.json em um projeto Node.js? Cite pelo menos três informações que ele pode conter.
    O arquivo package.json é fundamental em qualquer projeto Node.js, servindo como o manifesto ou "coração" do projeto [1]. Ele descreve metadados sobre o projeto, gerencia dependências (bibliotecas de terceiros) e define scripts úteis para o desenvolvimento. 
