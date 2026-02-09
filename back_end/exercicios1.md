@@ -34,7 +34,7 @@ consistindo em um repositório online de bibliotecas código aberto e uma ferram
 Ele facilita a instalação, compartilhamento e gerenciamento de dependências em projetos JavaScript, organizando pacotes no arquivo package.json. 
 
 
-7. O que significa a palavra módulo no Node.js?
+8. O que significa a palavra módulo no Node.js?
     
  No Node.js, um módulo é um bloco de código JavaScript encapsulado, reutilizável e organizado em arquivos ou pastas separadas,
  com escopo próprio. Funciona de maneira similar a uma biblioteca em outras linguagens, permitindo que você divida uma aplicação grande em partes menores,
