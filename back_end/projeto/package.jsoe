@@ -1,0 +1,16 @@
+{
+  "name": "chat simples em tempo real",
+    "description": "Meu primeiro projeto ",
+    "main": "index.js",
+    "scripts": {
+      "start":"node index.js",
+      "build": "webpack --mode production"
+  },
+"depedencies": {
+  "reaact": "^18.2.0"
+},
+"devDependencies":{
+  "eslint": "⁸.0.0"
+ }
+  
+}
